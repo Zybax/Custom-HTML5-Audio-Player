@@ -12,7 +12,8 @@ node.js v10.15.3
 * `cd Custom-HTML5-Audio-Player`
 
 2. Install dependencies 
-`npm install`
+
+* `npm install`
 
 3. Build and run dev server
 
